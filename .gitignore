@@ -2,6 +2,9 @@
 .history
 .vscode
 .env
+config.env
+
+voices/
 
 node_modules
 config/default.json
